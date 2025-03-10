@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DavidSlosar
-- 👀 I’m interested in behavioral economics
+- 👀 I’m interested in behavioral and experimental economics
 - 🌱 I’m currently learning Otree
 - 💞️ I’m looking to collaborate on nothing atm
 - 📫 How to reach me ---
